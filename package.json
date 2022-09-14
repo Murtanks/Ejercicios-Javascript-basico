@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio-01-javascript-basico",
+  "version": "1.0.0",
+  "description": "Ejercicio-01-JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js"
+  },
+  "keywords": [
+    "Ejercicio01"
+  ],
+  "author": "Jahiro Zamora",
+  "license": "ISC"
+}
